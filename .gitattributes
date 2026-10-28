@@ -1,0 +1,4 @@
+* text=auto
+skills/tela-bonita/scripts/impeccable text eol=lf
+*.cmd text eol=crlf
+*.json text eol=lf
