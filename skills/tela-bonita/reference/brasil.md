@@ -52,6 +52,16 @@ Profissionais de saúde preenchem fichas entre um atendimento e outro. Para aval
 - Um objetivo por tela, com o botão principal na área do polegar.
 - Opções frequentes como chips de um toque; o campo de texto livre fica para o que é raro.
 
+### As 7 leis de UX, uma linha cada
+
+- **Fitts:** o botão principal é grande e fica ao alcance do polegar; a ação destrutiva fica longe dele.
+- **Hick:** quanto mais escolhas, mais lenta a decisão. Em decisão importante, até 4 opções à vista, com a recomendada em destaque.
+- **Miller:** a memória de trabalho é curta. Agrupe em blocos e peça uma decisão por vez.
+- **Jakob:** a pessoa passa o dia em outros apps. Busca é lupa, configurações é engrenagem, voltar fica no topo à esquerda. Não reinvente o básico.
+- **Von Restorff:** o diferente é notado. Um só botão de destaque por tela: se tudo grita, nada grita.
+- **Zeigarnik:** tarefa inacabada puxa a pessoa de volta. Mostre "Passo 4 de 5" e o que falta no perfil ou na configuração.
+- **Gradiente de meta:** perto do fim, mais motivação. Use barra de progresso em cadastro, ficha e checklist, contando o que já foi feito.
+
 ## 7. Apps de saúde e odontologia
 
 - **Dois públicos, duas linguagens.** Tela do dentista usa o termo técnico ("endodontia", "dente 36"); tela do paciente usa a palavra simples ("tratamento de canal", "primeiro molar inferior esquerdo"). Antes de escrever, descubra de quem é a tela.
@@ -75,6 +85,7 @@ Profissionais de saúde preenchem fichas entre um atendimento e outro. Para aval
 - [ ] CPF, CEP e telefone com máscara, validação e teclado numérico
 - [ ] Consentimento de dado de saúde separado e desmarcado, se houver dado de saúde
 - [ ] Caminho principal com o menor número de toques e rascunho automático
+- [ ] As 7 leis de UX: um destaque por tela, até 4 opções à vista, progresso visível, padrões conhecidos e botão principal ao alcance do polegar
 - [ ] Nenhum estado comunicado só por cor
 - [ ] Fonte grande do sistema e alvos de toque testados
 - [ ] Se for marketing odontológico: regras do CFO conferidas no texto vigente
